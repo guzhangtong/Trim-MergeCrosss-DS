@@ -1,0 +1,1266 @@
+{
+  "PaperID_0": {
+    "deepseek_chat": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value and Unit": "524 ng/L (median concentration)",
+            "Water": "surface water",
+            "Location & Date": "Beijing, China, from 2013 to 2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value and Unit": "390 ng/L (median concentration)",
+            "Water": "surface water",
+            "Location & Date": "Beijing, China, from 2013 to 2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value and Unit": "156 ng/L (median concentration)",
+            "Water": "surface water",
+            "Location & Date": "Beijing, China, from 2013 to 2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value and Unit": "250 ng/L",
+            "Water": "surface water",
+            "Location & Date": "Beiyun River in Beijing, China, in October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value and Unit": "220 ng/L",
+            "Water": "surface water",
+            "Location & Date": "Beiyun River in Beijing, China, in October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value and Unit": "180 ng/L",
+            "Water": "surface water",
+            "Location & Date": "Beiyun River in Beijing, China, in October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol (MTP)",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine (CF)",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen (ATP)",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid (NA)",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin (CIP)",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin (OFX)",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          }
+        ]
+      }
+    },
+    "deepseek_coder": {
+      "话术一": {
+        "PaperID": "0",
+        "Name": "Metoprolol",
+        "Value": "524",
+        "Unit": "ng/L",
+        "Water": "surface water",
+        "Location": "Beijing",
+        "Date": "2013-2017",
+        "Context": "median concentration"
+      },
+      "话术二": {
+        "PaperID": "0",
+        "Name": "Nalidixic acid",
+        "Value": "250",
+        "Unit": "ng/L",
+        "Water": "surface water",
+        "Location": "Beiyun River, Beijing",
+        "Date": "October 2017",
+        "Context": "representative fluoroquinolone antibiotic"
+      }
+    },
+    "ChatGPT_4o_mini": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "median concentration of Metoprolol"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "median concentration of Caffeine"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "median concentration of Acetaminophen"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic detected frequently"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic detected frequently"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic detected frequently"
+          }
+        ]
+      }
+    },
+    "ChatGPT_41_mini": {
+      "话术一": {
+        "data": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Representing fluoroquinolone antibiotics"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Representing fluoroquinolone antibiotics"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Representing fluoroquinolone antibiotics"
+          }
+        ]
+      },
+      "话术二": {
+        "data": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic"
+          }
+        ]
+      }
+    }
+  },
+  "PaperID_1": {
+    "deepseek_chat": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value and Unit": "552 ng/L (average concentration)",
+            "Water": "urban river",
+            "Location & Date": "Beiyun River, Beijing, November and December 2017",
+            "Context": "The highest average concentration was observed for metoprolol (MTP), a typical beta-blocker, with 552 ng L−1 on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value and Unit": "494 ng/L",
+            "Water": "urban river",
+            "Location & Date": "Beiyun River, Beijing, November and December 2017",
+            "Context": "Caffeine (CF, 494 ng L−1) showed a concentration higher than 100 ng L−1 on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value and Unit": "455 ng/L",
+            "Water": "urban river",
+            "Location & Date": "Beiyun River, Beijing, November and December 2017",
+            "Context": "acetaminophen (ATP, 455 ng L−1) showed a concentration higher than 100 ng L−1 on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole (SMX)",
+            "Value and Unit": "78.0 ng/L",
+            "Water": "peri-urban river",
+            "Location & Date": "Chaobai River, Beijing, December 2017",
+            "Context": "sulfamethoxazole (SMX, 78.0 ng L−1) were the most abundant antibiotics."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin (EM)",
+            "Value and Unit": "92.6 ng/L",
+            "Water": "peri-urban river",
+            "Location & Date": "Chaobai River, Beijing, December 2017",
+            "Context": "erythromycin (EM, 92.6 ng L−1) were the most abundant antibiotics."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid (NA)",
+            "Value and Unit": "149.4 ng/L",
+            "Water": "peri-urban river",
+            "Location & Date": "Chaobai River, Beijing, December 2017",
+            "Context": "nalidixic acid (NA) was observed with the highest average concentration (149.4 ng L−1)."
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Highest average concentration among beta-blockers."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Concentration higher than 100 ng/L on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Concentration higher than 100 ng/L on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "One of the most abundant antibiotics."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "One of the most abundant antibiotics."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Highest average concentration among antibiotics."
+          }
+        ]
+      }
+    },
+    "deepseek_coder": {
+      "话术一": {
+        "PaperID": "1",
+        "Name": "Metoprolol",
+        "Value": "552",
+        "Unit": "ng/L",
+        "Water": "urban river",
+        "Location": "Beiyun River, Beijing",
+        "Date": "November and December 2017",
+        "Context": "highest average concentration"
+      },
+      "话术二": {
+        "PaperID": "1",
+        "Name": "Sulfamethoxazole",
+        "Value": "78.0",
+        "Unit": "ng/L",
+        "Water": "peri-urban river",
+        "Location": "Chaobai River, Beijing",
+        "Date": "December 2017",
+        "Context": "most abundant antibiotic"
+      }
+    },
+    "ChatGPT_4o_mini": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "highest average concentration (beta-blocker)"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "concentration higher than 100 ng/L"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "concentration higher than 100 ng/L"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "most abundant antibiotic"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "most abundant antibiotic"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "highest average concentration"
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November-December 2017",
+            "Context": "Highest average concentration among the detected compounds."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November-December 2017",
+            "Context": "Commonly detected compound."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November-December 2017",
+            "Context": "Commonly detected compound."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "One of the most abundant antibiotics detected."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "One of the most abundant antibiotics detected."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Highest average concentration among the antibiotics detected."
+          }
+        ]
+      }
+    },
+    "ChatGPT_41_mini": {
+      "话术一": {
+        "data": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Highest average concentration for a beta-blocker."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Concentration exceeding 100 ng/L."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Concentration exceeding 100 ng/L."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Most abundant antibiotic."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Most abundant antibiotic."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Highest average concentration for an antibiotic."
+          }
+        ]
+      },
+      "话术二": {
+        "data": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "Nov-Dec 2017",
+            "Context": "Highest average concentration."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "Nov-Dec 2017",
+            "Context": "High concentration."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "Nov-Dec 2017",
+            "Context": "High concentration."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Abundant antibiotic."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Abundant antibiotic."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Highest average concentration."
+          }
+        ]
+      }
+    }
+  },
+  "PaperID_2": {
+    "deepseek_chat": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value and Unit": "ND–33.1 ng/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Chaobai River, 2020年12月(秋)，2021年3月(春)",
+            "Context": "3.1节；水中大环内酯含量范围ND–33.1 ng/L。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value and Unit": "0.13–94.0 ng/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Chaobai River, 2020年12月(秋)，2021年3月(春)",
+            "Context": "3.1节；水中SMX浓度0.13–94.0 ng/L。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value and Unit": "中位数较高 ng/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Beiyun River Basin, 2013-2017年间采样",
+            "Context": "本文第3章 3.3节，描述13种抗生素浓度下降；TMP为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value and Unit": "7.8 μg/L(未检出含义否)",
+            "Water": "地表水",
+            "Location & Date": "北京市 Chaobai River, 2020年12月(秋)，2021年3月(春)",
+            "Context": "3.1截自部分内容。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value and Unit": "ND-0.19 μg/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Beiyun River Basin, 2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，AZM为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value and Unit": "ND",
+            "Water": "地表水",
+            "Location & Date": "北京市 Beiyun River Basin, 2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，CAP为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value and Unit": "ND-0.42 μg/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Beiyun River Basin, 2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，ROX为其中之一。"
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND–33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月(秋)，2021年3月(春)",
+            "Context": "水中大环内酯含量范围ND–33.1 ng/L。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13–94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月(秋)，2021年3月(春)",
+            "Context": "水中SMX浓度0.13–94.0 ng/L。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "中位数较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "本文第3章 3.3节，描述13种抗生素浓度下降；TMP为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月(秋)，2021年3月(春)",
+            "Context": "3.1截自部分内容。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，AZM为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，CAP为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，ROX为其中之一。"
+          }
+        ]
+      }
+    },
+    "deepseek_coder": {
+      "话术一": {
+        "PaperID": "2",
+        "Name": "Erythromycin",
+        "Value": "ND-33.1",
+        "Unit": "ng/L",
+        "Water": "地表水",
+        "Location": "北京市 Chaobai River",
+        "Date": "2020年12月(秋), 2021年3月(春)",
+        "Context": "水中大环内酯含量范围"
+      },
+      "话术二": {
+        "PaperID": "2",
+        "Name": "磺胺甲恶唑 (SMX)",
+        "Value": "0.13-94.0",
+        "Unit": "ng/L",
+        "Water": "地表水",
+        "Location": "北京市 Chaobai River",
+        "Date": "2020年12月(秋), 2021年3月(春)",
+        "Context": "水中SMX浓度"
+      }
+    },
+    "ChatGPT_4o_mini": {
+      "话术一": {
+        "data": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND-33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Range of macrolide antibiotics in water"
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13-94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Concentration of SMX in water"
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "中位数较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Median concentration of TMP/SMX"
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Partial content from section 3.1"
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Azithromycin (AZM) is one of the 5 antibiotics with low detection rates"
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "unknown",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Chloramphenicol (CAP) is one of the 5 antibiotics with low detection rates"
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Roxithromycin (ROX) is one of the 5 antibiotics with low detection rates"
+          }
+        ]
+      },
+      "话术二": {
+        "data": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND-33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "Macrolide antibiotic range in water."
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13-94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "SMX concentration in water."
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "One of 13 antibiotics with decreasing concentrations (Section 3.3)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "From section 3.1."
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "One of 5 antibiotics with low detection rates (Section 3.2)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "One of 5 antibiotics with low detection rates (Section 3.2)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "One of 5 antibiotics with low detection rates (Section 3.2)."
+          }
+        ]
+      }
+    },
+    "ChatGPT_41_mini": {
+      "话术一": {
+        "data": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND-33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Macrolide antibiotic concentration range."
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13-94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Sulfamethoxazole concentration."
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "中位数较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Higher median concentration of TMP/SMX."
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Concentration of oxaliplatin (OFX)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Azithromycin concentration range."
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Chloramphenicol concentration (not detected)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Roxithromycin concentration range."
+          }
+        ]
+      },
+      "话术二": {
+        "data": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND-33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "Macrolide antibiotic."
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13-94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "Sulfamethoxazole."
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "TMP/SMX."
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "Oxaliplatin (OFX)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Azithromycin."
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Chloramphenicol."
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Roxithromycin."
+          }
+        ]
+      }
+    }
+  }
+}

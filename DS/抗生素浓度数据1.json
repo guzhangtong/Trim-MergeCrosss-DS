@@ -1,0 +1,404 @@
+{
+  "PaperID_0": {
+    "deepseek_chat": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value and Unit": "524 ng/L (median concentration)",
+            "Water": "surface water",
+            "Location & Date": "Beijing, China, from 2013 to 2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value and Unit": "390 ng/L (median concentration)",
+            "Water": "surface water",
+            "Location & Date": "Beijing, China, from 2013 to 2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value and Unit": "156 ng/L (median concentration)",
+            "Water": "surface water",
+            "Location & Date": "Beijing, China, from 2013 to 2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value and Unit": "250 ng/L",
+            "Water": "surface water",
+            "Location & Date": "Beiyun River in Beijing, China, in October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value and Unit": "220 ng/L",
+            "Water": "surface water",
+            "Location & Date": "Beiyun River in Beijing, China, in October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value and Unit": "180 ng/L",
+            "Water": "surface water",
+            "Location & Date": "Beiyun River in Beijing, China, in October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol (MTP)",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine (CF)",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen (ATP)",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Metoprolol (524 ng L−1), caffeine (390 ng L−1) and acetaminophen (156 ng L−1) were the three most abundant non-antibiotics with the highest median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid (NA)",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin (CIP)",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin (OFX)",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          }
+        ]
+      }
+    },
+    "deepseek_coder": {
+      "话术一": {
+        "PaperID": "0",
+        "Name": "Metoprolol",
+        "Value": "524",
+        "Unit": "ng/L",
+        "Water": "surface water",
+        "Location": "Beijing",
+        "Date": "2013-2017",
+        "Context": "median concentration"
+      },
+      "话术二": {
+        "PaperID": "0",
+        "Name": "Nalidixic acid",
+        "Value": "250",
+        "Unit": "ng/L",
+        "Water": "surface water",
+        "Location": "Beiyun River, Beijing",
+        "Date": "October 2017",
+        "Context": "representative fluoroquinolone antibiotic"
+      }
+    },
+    "ChatGPT_4o_mini": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "median concentration of Metoprolol"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "median concentration of Caffeine"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "median concentration of Acetaminophen"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Nalidixic acid (NA), ciprofloxacin (CIP) and ofloxacin (OFX) were selected as representatives of fluoroquinolone antibiotics and detected frequently in surface water."
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic detected frequently"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic detected frequently"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic detected frequently"
+          }
+        ]
+      }
+    },
+    "ChatGPT_41_mini": {
+      "话术一": {
+        "data": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013 to 2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Representing fluoroquinolone antibiotics"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Representing fluoroquinolone antibiotics"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Representing fluoroquinolone antibiotics"
+          }
+        ]
+      },
+      "话术二": {
+        "data": [
+          {
+            "PaperID": "0",
+            "Name": "Metoprolol",
+            "Value": "524",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Caffeine",
+            "Value": "390",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Acetaminophen",
+            "Value": "156",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beijing, China",
+            "Date": "2013-2017",
+            "Context": "Median concentration"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Nalidixic acid",
+            "Value": "250",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ciprofloxacin",
+            "Value": "220",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic"
+          },
+          {
+            "PaperID": "0",
+            "Name": "Ofloxacin",
+            "Value": "180",
+            "Unit": "ng/L",
+            "Water": "surface water",
+            "Location": "Beiyun River in Beijing, China",
+            "Date": "October 2017",
+            "Context": "Fluoroquinolone antibiotic"
+          }
+        ]
+      }
+    }
+  }
+}

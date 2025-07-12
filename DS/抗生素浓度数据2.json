@@ -1,0 +1,404 @@
+{
+  "PaperID_1": {
+    "deepseek_chat": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value and Unit": "552 ng/L (average concentration)",
+            "Water": "urban river",
+            "Location & Date": "Beiyun River, Beijing, November and December 2017",
+            "Context": "The highest average concentration was observed for metoprolol (MTP), a typical beta-blocker, with 552 ng L−1 on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value and Unit": "494 ng/L",
+            "Water": "urban river",
+            "Location & Date": "Beiyun River, Beijing, November and December 2017",
+            "Context": "Caffeine (CF, 494 ng L−1) showed a concentration higher than 100 ng L−1 on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value and Unit": "455 ng/L",
+            "Water": "urban river",
+            "Location & Date": "Beiyun River, Beijing, November and December 2017",
+            "Context": "acetaminophen (ATP, 455 ng L−1) showed a concentration higher than 100 ng L−1 on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole (SMX)",
+            "Value and Unit": "78.0 ng/L",
+            "Water": "peri-urban river",
+            "Location & Date": "Chaobai River, Beijing, December 2017",
+            "Context": "sulfamethoxazole (SMX, 78.0 ng L−1) were the most abundant antibiotics."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin (EM)",
+            "Value and Unit": "92.6 ng/L",
+            "Water": "peri-urban river",
+            "Location & Date": "Chaobai River, Beijing, December 2017",
+            "Context": "erythromycin (EM, 92.6 ng L−1) were the most abundant antibiotics."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid (NA)",
+            "Value and Unit": "149.4 ng/L",
+            "Water": "peri-urban river",
+            "Location & Date": "Chaobai River, Beijing, December 2017",
+            "Context": "nalidixic acid (NA) was observed with the highest average concentration (149.4 ng L−1)."
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Highest average concentration among beta-blockers."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Concentration higher than 100 ng/L on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Concentration higher than 100 ng/L on average."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "One of the most abundant antibiotics."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "One of the most abundant antibiotics."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Highest average concentration among antibiotics."
+          }
+        ]
+      }
+    },
+    "deepseek_coder": {
+      "话术一": {
+        "PaperID": "1",
+        "Name": "Metoprolol",
+        "Value": "552",
+        "Unit": "ng/L",
+        "Water": "urban river",
+        "Location": "Beiyun River, Beijing",
+        "Date": "November and December 2017",
+        "Context": "highest average concentration"
+      },
+      "话术二": {
+        "PaperID": "1",
+        "Name": "Sulfamethoxazole",
+        "Value": "78.0",
+        "Unit": "ng/L",
+        "Water": "peri-urban river",
+        "Location": "Chaobai River, Beijing",
+        "Date": "December 2017",
+        "Context": "most abundant antibiotic"
+      }
+    },
+    "ChatGPT_4o_mini": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "highest average concentration (beta-blocker)"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "concentration higher than 100 ng/L"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "concentration higher than 100 ng/L"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "most abundant antibiotic"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "most abundant antibiotic"
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "highest average concentration"
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November-December 2017",
+            "Context": "Highest average concentration among the detected compounds."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November-December 2017",
+            "Context": "Commonly detected compound."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November-December 2017",
+            "Context": "Commonly detected compound."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "One of the most abundant antibiotics detected."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "One of the most abundant antibiotics detected."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Highest average concentration among the antibiotics detected."
+          }
+        ]
+      }
+    },
+    "ChatGPT_41_mini": {
+      "话术一": {
+        "data": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Highest average concentration for a beta-blocker."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Concentration exceeding 100 ng/L."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "November and December 2017",
+            "Context": "Concentration exceeding 100 ng/L."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Most abundant antibiotic."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Most abundant antibiotic."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Highest average concentration for an antibiotic."
+          }
+        ]
+      },
+      "话术二": {
+        "data": [
+          {
+            "PaperID": "1",
+            "Name": "Metoprolol",
+            "Value": "552",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "Nov-Dec 2017",
+            "Context": "Highest average concentration."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Caffeine",
+            "Value": "494",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "Nov-Dec 2017",
+            "Context": "High concentration."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Acetaminophen",
+            "Value": "455",
+            "Unit": "ng/L",
+            "Water": "urban river",
+            "Location": "Beiyun River, Beijing",
+            "Date": "Nov-Dec 2017",
+            "Context": "High concentration."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Sulfamethoxazole",
+            "Value": "78.0",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Abundant antibiotic."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Erythromycin",
+            "Value": "92.6",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Abundant antibiotic."
+          },
+          {
+            "PaperID": "1",
+            "Name": "Nalidixic acid",
+            "Value": "149.4",
+            "Unit": "ng/L",
+            "Water": "peri-urban river",
+            "Location": "Chaobai River, Beijing",
+            "Date": "December 2017",
+            "Context": "Highest average concentration."
+          }
+        ]
+      }
+    }
+  }
+}

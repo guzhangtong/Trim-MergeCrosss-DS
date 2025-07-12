@@ -1,0 +1,462 @@
+{
+  "PaperID_2": {
+    "deepseek_chat": {
+      "话术一": {
+        "antibiotics": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value and Unit": "ND–33.1 ng/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Chaobai River, 2020年12月(秋)，2021年3月(春)",
+            "Context": "3.1节；水中大环内酯含量范围ND–33.1 ng/L。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value and Unit": "0.13–94.0 ng/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Chaobai River, 2020年12月(秋)，2021年3月(春)",
+            "Context": "3.1节；水中SMX浓度0.13–94.0 ng/L。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value and Unit": "中位数较高 ng/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Beiyun River Basin, 2013-2017年间采样",
+            "Context": "本文第3章 3.3节，描述13种抗生素浓度下降；TMP为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value and Unit": "7.8 μg/L(未检出含义否)",
+            "Water": "地表水",
+            "Location & Date": "北京市 Chaobai River, 2020年12月(秋)，2021年3月(春)",
+            "Context": "3.1截自部分内容。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value and Unit": "ND-0.19 μg/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Beiyun River Basin, 2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，AZM为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value and Unit": "ND",
+            "Water": "地表水",
+            "Location & Date": "北京市 Beiyun River Basin, 2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，CAP为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value and Unit": "ND-0.42 μg/L",
+            "Water": "地表水",
+            "Location & Date": "北京市 Beiyun River Basin, 2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，ROX为其中之一。"
+          }
+        ]
+      },
+      "话术二": {
+        "antibiotics": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND–33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月(秋)，2021年3月(春)",
+            "Context": "水中大环内酯含量范围ND–33.1 ng/L。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13–94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月(秋)，2021年3月(春)",
+            "Context": "水中SMX浓度0.13–94.0 ng/L。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "中位数较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "本文第3章 3.3节，描述13种抗生素浓度下降；TMP为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月(秋)，2021年3月(春)",
+            "Context": "3.1截自部分内容。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，AZM为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，CAP为其中之一。"
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "本文3.2节 描述5种抗生素检出率低，ROX为其中之一。"
+          }
+        ]
+      }
+    },
+    "deepseek_coder": {
+      "话术一": {
+        "PaperID": "2",
+        "Name": "Erythromycin",
+        "Value": "ND-33.1",
+        "Unit": "ng/L",
+        "Water": "地表水",
+        "Location": "北京市 Chaobai River",
+        "Date": "2020年12月(秋), 2021年3月(春)",
+        "Context": "水中大环内酯含量范围"
+      },
+      "话术二": {
+        "PaperID": "2",
+        "Name": "磺胺甲恶唑 (SMX)",
+        "Value": "0.13-94.0",
+        "Unit": "ng/L",
+        "Water": "地表水",
+        "Location": "北京市 Chaobai River",
+        "Date": "2020年12月(秋), 2021年3月(春)",
+        "Context": "水中SMX浓度"
+      }
+    },
+    "ChatGPT_4o_mini": {
+      "话术一": {
+        "data": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND-33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Range of macrolide antibiotics in water"
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13-94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Concentration of SMX in water"
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "中位数较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Median concentration of TMP/SMX"
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Partial content from section 3.1"
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Azithromycin (AZM) is one of the 5 antibiotics with low detection rates"
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "unknown",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Chloramphenicol (CAP) is one of the 5 antibiotics with low detection rates"
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Roxithromycin (ROX) is one of the 5 antibiotics with low detection rates"
+          }
+        ]
+      },
+      "话术二": {
+        "data": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND-33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "Macrolide antibiotic range in water."
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13-94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "SMX concentration in water."
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "One of 13 antibiotics with decreasing concentrations (Section 3.3)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "From section 3.1."
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "One of 5 antibiotics with low detection rates (Section 3.2)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "One of 5 antibiotics with low detection rates (Section 3.2)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "One of 5 antibiotics with low detection rates (Section 3.2)."
+          }
+        ]
+      }
+    },
+    "ChatGPT_41_mini": {
+      "话术一": {
+        "data": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND-33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Macrolide antibiotic concentration range."
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13-94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Sulfamethoxazole concentration."
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "中位数较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Higher median concentration of TMP/SMX."
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "2020年12月 (秋), 2021年3月 (春)",
+            "Context": "Concentration of oxaliplatin (OFX)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Azithromycin concentration range."
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Chloramphenicol concentration (not detected)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Roxithromycin concentration range."
+          }
+        ]
+      },
+      "话术二": {
+        "data": [
+          {
+            "PaperID": "2",
+            "Name": "Erythromycin",
+            "Value": "ND-33.1",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "Macrolide antibiotic."
+          },
+          {
+            "PaperID": "2",
+            "Name": "磺胺甲恶唑 (SMX)",
+            "Value": "0.13-94.0",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "Sulfamethoxazole."
+          },
+          {
+            "PaperID": "2",
+            "Name": "甲氧苄啶/磺胺甲恶唑复方 (TMP/SMX)",
+            "Value": "较高",
+            "Unit": "ng/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "TMP/SMX."
+          },
+          {
+            "PaperID": "2",
+            "Name": "奥沙利铂 (OFX)",
+            "Value": "7.8",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Chaobai River",
+            "Date": "Dec 2020 (Autumn), Mar 2021 (Spring)",
+            "Context": "Oxaliplatin (OFX)."
+          },
+          {
+            "PaperID": "2",
+            "Name": "阿奇霉素",
+            "Value": "ND-0.19",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Azithromycin."
+          },
+          {
+            "PaperID": "2",
+            "Name": "氯霉素",
+            "Value": "ND",
+            "Unit": "",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Chloramphenicol."
+          },
+          {
+            "PaperID": "2",
+            "Name": "罗红霉素",
+            "Value": "ND-0.42",
+            "Unit": "μg/L",
+            "Water": "地表水",
+            "Location": "北京市 Beiyun River Basin",
+            "Date": "2013-2017年间采样",
+            "Context": "Roxithromycin."
+          }
+        ]
+      }
+    }
+  }
+}
